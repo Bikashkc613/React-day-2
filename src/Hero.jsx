@@ -4,7 +4,7 @@ const Hero = () => {
   return (
     
     <div className='flex flex-col items-center justify-center text-center gap-7 bg-gray-800 w-full
-    h-[89.3vh]'>
+    h-[89.3vh]' id="About">
 
      <h1 className='text-shadow-2xs animate-bounce text-5xl text-green-500'>
      Not React Developer
